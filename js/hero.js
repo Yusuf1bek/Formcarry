@@ -19,10 +19,10 @@ elHeroText.classList.add("hero-text");
 elHeroText.textContent = "Code your own HTML form and style it, then point your form to formcarry to get email notifications, upload files, block spam and integrate with other apps.";
 
 let elBtns = document.createElement("div");
-elBtns.classList.add("hero-buttons-wrapper");
+elBtns.classList.add("hero-wrapper-btn");
 
 let elHeroBtn1 = document.createElement("a");
-elHeroBtn1.classList.add("hero-try-btn");
+elHeroBtn1.classList.add("hero-get-btn");
 elHeroBtn1.href = "/";
 elHeroBtn1.textContent = "Get Started";
 

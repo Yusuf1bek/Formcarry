@@ -121,7 +121,7 @@ body {
     text-align: center;
 }
 
-.hero-try-btn {
+.hero-get-btn {
     margin-left: 550px; 
     padding: 10px 20px;
     border: none;
@@ -133,7 +133,7 @@ body {
     transition: 0.3s all ease;
 }
 
-.hero-try-btn:hover {
+.hero-get-btn:hover {
     background-color: white; 
     color: rgb(14, 11, 61); 
     border: 1px solid rgb(14, 11, 61); 
